@@ -1,1 +1,1 @@
-# vertical_tabs
+# vertical
